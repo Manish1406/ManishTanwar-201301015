@@ -1,0 +1,35 @@
+				-:Product backlogs:-
+
+
+#1 Creating Gmail login
+
+#2 Creating authentication to cooking app to access gmail data.
+
+#3 Creating site login.
+
+#4 Creating sign up.
+
+#5 Creating reset password.
+
+#6 Creating Account setting.
+
+#7 Creating resend password.
+
+#8 Creating verifying user email.
+
+#9 Creating Features selection.
+
+#10 Creatingmenu selection.
+
+#11 Creating Load home page.
+
+#12 Creating load libraries.
+
+#13 Creating user upload.
+
+#14 Creating upload.apk
+
+#15 Creating load GUI files.
+
+#16 creating sign out.
+
