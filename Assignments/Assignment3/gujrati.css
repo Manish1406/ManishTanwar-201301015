@@ -1,0 +1,18 @@
+.Style1{
+	width:100px;
+	height:100px;
+	border-color: GoldenRod  ;
+	background-color: Gold  ;
+	color: Olive  ;
+}
+.Style{
+	width:90px;
+	height: 60px;
+	border-color:DarkGoldenRod  ;
+	border-width: 5px;
+}
+.Para{
+	font-family: verdana;
+	font-weight: 900;
+	color: black ;
+}
