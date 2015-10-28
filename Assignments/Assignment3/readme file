@@ -1,0 +1,7 @@
+We open the .html file with browser or google chrome and play the game.
+
+In the folder we have html ,css and javascript file.
+
+We try to make word from the matrix, if it match with the word which we have in our javascript file you get points else it shows wrong message.
+
+In this game there are many gujrati words stored in js file which can be made from the matrix.
