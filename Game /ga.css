@@ -1,0 +1,18 @@
+.Style1{
+	width:35px;
+	height:35px;
+	border-color: blue;
+	background-color: yellow;
+	color: red;
+}
+.Style{
+	width:70px;
+	height: 40px;
+	border-color: yellow;
+	border-width: 3px;
+}
+.Para{
+	font-family: sans-serif;
+	font-weight: bolder;
+	color: blue;
+}
